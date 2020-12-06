@@ -1,0 +1,131 @@
+<style type="text/css">
+body {
+	padding: 0;
+    margin: 0;
+}
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+ul , li {
+	display: block;
+	list-style-type: none;
+	margin: 0;
+}
+.header {
+	background-color: #43B0D2;
+	height: 100px;
+}
+.menu li a {
+	text-decoration: none;
+	color: #fff;
+	margin-left: 125px;
+}
+.menu {
+	position: absolute;
+	display: flex;
+	left: 95px;
+	top: 30px;
+	font-size: 25px;
+}
+.container {
+	position: absolute;
+}
+.sdulogo {
+	position: fixed;
+	top: 170px;
+	left: 200px;
+	width: 420px;
+	height: 280px;
+}
+.heading {
+    position: absolute;
+    width: 500px;
+    left: 850px; 
+    top: 30px;
+    font-size: 40px;
+}
+.table-info {
+	position: absolute;
+	width: 550px;
+	height: 220px;
+	left: 730px;
+	margin-top: 135px;
+	font-size: 18px;
+}
+.table-info td {
+	text-align: center;
+}
+hr {
+	position: fixed;
+	left: 150px;
+	margin-top: 400px;
+}
+.heading-2 {
+	position: fixed;
+	left: 650px;
+	top: 480px;
+	font-size: 23px;
+}
+.textarea {
+	position: absolute;
+	left: 250px;
+	top: 430px;
+	width: 1050px;
+	height: 200px;
+}
+		</style>
+	</div>
+</section>
+</body>
+</html>

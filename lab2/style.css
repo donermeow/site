@@ -1,0 +1,236 @@
+
+body {
+	margin: 0;
+	min-width: 1400px;
+    height: 1300px;
+}
+ul, li {
+	list-style-type: none;
+}
+.header {
+    min-width: 1400px;
+    position: relative;
+    height: 4.5%;
+}
+
+.menu  li a {
+    
+    color: black;
+    margin-left: 85px;
+    text-decoration: none;
+}
+.menu {
+    position: relative;
+    top: 10px;
+    display: flex;
+    font-size: 20px;
+    
+}
+.hr{
+    position: absolute;
+    top: 33px;
+    width: 1516.8px;
+    border: solid;
+}
+.main {
+    position: absolute;
+    background: url(background.jpg) no-repeat;
+    top: 53px;
+    width: 1519px;
+    height: 550px;
+}
+.heading {
+    position: relative;
+    top: 40px;
+    left: 480px;
+    width: 50%;
+    font-family: monospace;
+    font-size: 70px;
+    color: #fff;
+}
+.border {
+    position: relative;
+    width: 550px;
+    height: 110px;
+    left: 280px;
+    top: 120px;
+    text-align: center;
+    font-family: serif;
+    font-size: 25px;
+    color: #fff;
+}
+.btn {
+    position: absolute;
+    width: 10%;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+    font-family: serif;
+}
+.solution-heading {
+    position: absolute;
+    top: 650px;
+    left: 670px;
+    width: 250px;
+    font-size: 50px;
+    color: #456;
+}
+/*********3*************************************************************************************/
+.RISUNOK2 {
+    position: absolute;
+    left: 30px;
+    top: 770px;
+}
+.ris2 {
+    position: absolute;
+    width: 300px; 
+    height: 237px;
+}
+.svg1 {
+    position: relative;
+    top: 237px;
+} 
+.text {
+    position: relative;
+    top: 100px;
+    left:100px;
+    width: 100px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: serif;
+}
+.text1 {
+    position: relative;
+    width: 200px;
+    top: 97px;
+    left: 70px;
+    font-family: serif;
+    font-size: 17px;
+}
+.btn1 {
+    position: relative;
+    top: 100px;
+    left: 80px;
+    width: 130px;
+    height: 40px;
+
+} 
+
+/*********3*************************************************************************************/
+.RISUNOK3 {
+    position: absolute;
+    left: 405px;
+    top: 770px;
+}
+.ris3 {
+    position: absolute;
+    width: 300px; 
+    height: 237px;
+}
+.svg2 {
+    position: relative;
+    top: 237px;
+} 
+.text2 {
+    position: relative;
+    top: 100px;
+    left: 110px;
+    width: 100px;
+    font-family: serif;
+    font-weight: bold;
+}
+.text3{
+    position: relative;
+    width: 250px;
+    top: 90px;
+    left: 45px;
+    font-family: serif;
+    font-size: 15px;
+}
+.btn2 {
+    position: relative;
+    top: 85px;
+    left: 80px;
+    width: 130px;
+    height: 40px;
+} 
+
+/*********4*************************************************************************************/
+.RISUNOK4 {
+    position: absolute;
+    left: 795px;
+    top: 770px;
+}
+.ris4 {
+    position: absolute;
+    width: 300px; 
+    height: 237px;
+    
+
+}
+.svg3 {
+    position: relative;
+    top: 237px;
+} 
+.text4 {
+    position: relative;
+    top: 100px;
+    left: 110px;
+    width: 100px;
+    font-family: serif;
+    font-weight: bold;
+}
+.text5{
+    position: relative;
+    width: 250px;
+    top: 90px;
+    left: 45px;
+    font-family: serif;
+    font-size: 15px;
+}
+.btn3 {
+    position: relative;
+    top: 85px;
+    left: 80px;
+    width: 130px;
+    height: 40px;
+} 
+/*********5*************************************************************************************/
+.RISUNOK5 {
+    position: absolute;
+    left: 1195px;
+    top: 770px;
+}
+.ris5 {
+    position: absolute;
+    width: 300px;
+    height: 237px; 
+}
+.svg4 {
+    position: relative;
+    top: 237px;
+} 
+.text6 {
+    position: absolute;
+    top: 255px;
+    left: 100px;
+    width: 100px;
+    font-family: serif;
+    font-weight: bold;
+}
+.text7{
+    position: absolute;
+    width: 130px;
+    top: 290px;
+    left: 90px;
+    font-family: serif;
+    font-size: 15px;
+}
+.btn4 {
+    position: absolute;
+    top: 330px;
+    left: 85px;
+    width: 130px;
+    height: 40px;
+} 
+
